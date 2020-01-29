@@ -1,3 +1,4 @@
+https://dev.azure.com/mhaimel/first%20test/_apis/build/status/mh11.pipelines-java?branchName=azure-pipelines
 [![Build Status](https://dev.azure.com/mhaimel/first%20test/_apis/build/status/mh11.pipelines-java?branchName=azure-pipelines)](https://dev.azure.com/mhaimel/first%20test/_build/latest?definitionId=1&branchName=azure-pipelines)
 
 # Contributing
